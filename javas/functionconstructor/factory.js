@@ -16,3 +16,4 @@ function person(lastname){       //factroy function its always retune a object .
 const jhon=person("shaikh")
 // console.log(jhon)                its not give a new object.
 console.log(jhon.getfullname())
+   

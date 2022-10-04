@@ -10,6 +10,6 @@ function getpersonfulname(fname,lname,city){    // its creat a new object instan
 
     
 }
-// console.log(new getpersonfulname("jhon","wick","nanded"))
-// const newob=( new getpersonfulname("jhon","wick","nande"))
-// console.log(newo/b)
+console.log(new getpersonfulname("jhon","wick","nanded"))
+const newob=( new getpersonfulname("jhon","wick","nande"))
+console.log(newob)
